@@ -1,0 +1,15 @@
+{
+  "short-name": "Weather App",
+  "name": "React Weather PWA",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start-url": ".",
+  "display": "standalone",
+  "theme-color": "#000000",
+  "background-color": "#ffffff"
+}
